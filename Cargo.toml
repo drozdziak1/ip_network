@@ -19,7 +19,7 @@ coveralls = { repository = "JakubOnderka/ip_network" }
 
 [dependencies.extprim]
 version = "1.3"
-default-features = false
+default-features = true
 
 [dependencies.serde]
 version = "1.0"
